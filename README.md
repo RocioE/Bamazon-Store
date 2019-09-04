@@ -1,0 +1,2 @@
+# Bamazon-Store
+Bamazon Welcome to Bamazon! This is an Amazon-like storefront built with MySQL and Node.js.  In the customer portal, you can view the inventory, select an item for purchase and it's quantity. If your selected inventory can not be fullfilled, transaction will not be able to be completed.  Within the manager portal, you can view all instock inventory in the store, view all low inventory (less than 5 items in stock), and allows to "add more" of any item to the current inventory!  Happy Bamazon shopping!
