@@ -3,3 +3,7 @@ Welcome to Bamazon! This is an Amazon-like storefront built with MySQL and Node.
 Happy Bamazon shopping!
 
 https://drive.google.com/open?id=12_Upsm0lftrE2YfBig0UMyTNv0gMUfeR
+
+GitHub: 
+
+Contact: Rocio.Esquibel@yahoo.com @RocioEsquibel2019
